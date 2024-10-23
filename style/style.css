@@ -325,9 +325,9 @@ main {
 }
 
 .footer-container {
-    width: 100%;
+    width: 80%;
     background: #070211;
-    padding: 120px 150px;
+    padding: 120px 10%;
 }
 .border{
     padding-bottom: 50px;
