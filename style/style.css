@@ -325,6 +325,7 @@ main {
 }
 
 .footer-container {
+    width: 100%;
     background: #070211;
     padding: 120px 150px;
 }
